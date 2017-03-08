@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# 2017-2-22 version 0.0.8
+404.html
+css/404page.css
+css/chatRoom.css
+css/head.css
+css/index.css
+css/shell.css
+js/page.model.js
+js/page.shell.js
+js/page.chatRoom.js
+js/page.js
+images/b.png
+
+NETWORK:
+    *
